@@ -9273,6 +9273,7 @@ a.text-primary:hover, a.text-primary:focus {
 
 .text-secondary {
   color: #6c757d !important;
+  font-size: 14px;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
