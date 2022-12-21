@@ -378,7 +378,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: 2rem;
+  font-size: 24px;
 }
 
 @media (max-width: 1200px) {
@@ -398,7 +398,7 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  font-size: 1rem;
+  font-size: 14px;
 }
 
 @media (max-width: 1200px) {
@@ -526,6 +526,11 @@ mark,
 }
 
 .img-fluid {
+  max-width: 100%;
+  height: 280px;
+}
+
+.img-fluid1 {
   max-width: 100%;
   height: auto;
 }
